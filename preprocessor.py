@@ -6,7 +6,7 @@ import json
 
 
 import nltk
-# nltk.download('wordnet') 
+nltk.download('wordnet') 
 
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
